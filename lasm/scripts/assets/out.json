@@ -1,0 +1,8 @@
+{
+    "aix":      ["bin/lasm"],
+    "darwin":   ["bin/lasm"],
+    "linux":    ["bin/lasm"],
+    "openbsd":  ["bin/lasm"],
+    "sunos":    ["bin/lasm"],
+    "win32":    ["bin/lasm.exe"]
+}
