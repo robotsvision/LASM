@@ -13,7 +13,7 @@
 #include <llibs.h>
 
 /** 
-  * @brief LASM compiler greeting. Prints: `[Lena][subname]:`
+  * @brief LASM compiler greeting. Prints: `[lasm]:`
   */
 extern void greeting_lasm(void);
 
